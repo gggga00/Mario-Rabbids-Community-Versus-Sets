@@ -7,7 +7,7 @@ You don't need any programming knowledge to contribute. If you have ideas for ne
 
 ## How to make custom Versus sets
 
-You can help by creating new versus sets, improving existing ones, or even by simply sharing your ideas with the community.
+You can help by creating new versus sets, improving existing ones, or even by simply sharing your ideas on the [Mario+Rabbids Discord Server](https://discord.gg/TG4vxzkBG).
 
 Here is how you can create your own sets:
 
