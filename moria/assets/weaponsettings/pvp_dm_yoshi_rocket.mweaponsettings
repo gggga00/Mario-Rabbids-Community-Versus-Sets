@@ -95,7 +95,7 @@ ListWeaponSettings PVP_DM_Yoshi_Rockets
 		myBulletParameters < uid=8297F7EA59D64DDF00000069E53E54B7 > = BulletParameters_Rocket
 		myVersionInfoConditions < uid=8297F7EA59D64DDF0000006AEFE549F7 > = VER_Retail
 	}
-    WeaponSettings Yoshi_Rocket_Preset4		// Apocalyptic
+    WeaponSettings Yoshi_Rocket_Preset4
 	{
 		myGraphObject "moria/graph objects/weapon/wpn_rocket_yoshi_07.mgraphobject"
 		myEquipmentDescriptor = Descriptor_Yoshi_Rocket_7

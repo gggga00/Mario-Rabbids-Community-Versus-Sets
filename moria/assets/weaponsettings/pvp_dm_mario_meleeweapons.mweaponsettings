@@ -98,7 +98,7 @@ ListWeaponSettings PVP_DM_Mario_MeleeWeapons
 		myBulletParameters < uid=8297F7EA59D62C99000000E6F67014F8 > = BulletParameters_MeleeWeapon
 		myVersionInfoConditions < uid=8297F7EA59D62C99000000E7EBA78C17 > = VER_Retail
 	}
-	WeaponSettings Mario_MeleeWeapon_Preset4		// Sticky
+	WeaponSettings Mario_MeleeWeapon_Sticky
 	{
 		myGraphObject "moria/graph objects/weapon/wpn_melee_mario_04.mgraphobject"
 		myEquipmentDescriptor = Descriptor_Mario_Melee_2

@@ -98,7 +98,7 @@ ListWeaponSettings PVP_DM_RabbidsLuigi_ElementalWeapons
 		myBulletParameters < uid=8297F7EA59D6320D000000EECC2B62A4 > = BulletParameters_ElementalWeapon
 		myVersionInfoConditions < uid=8297F7EA59D6320D000000EF5ED2AE77 > = VER_Retail
 	}
-	WeaponSettings RabbidsLuigi_ElementalWeapon_Preset4		// Invader
+	WeaponSettings RabbidsLuigi_ElementalWeapon_Preset4
 	{
 		myGraphObject "moria/graph objects/weapon/wpn_elemental_rabbidluigi_14.mgraphobject"
 		myEquipmentDescriptor = Descriptor_RabbidsLuigi_ElementalWeapon_14
@@ -126,7 +126,7 @@ ListWeaponSettings PVP_DM_RabbidsLuigi_ElementalWeapons
 		myBulletParameters < uid=8297F7EA59D6320D000000EECC2B62A4 > = BulletParameters_ElementalWeapon
 		myVersionInfoConditions < uid=8297F7EA59D6320D000000EF5ED2AE77 > = VER_Retail
 	}
-	WeaponSettings RabbidsLuigi_ElementalWeapon_Preset5		// Brawler
+	WeaponSettings RabbidsLuigi_ElementalWeapon_Preset5
 	{
 		myGraphObject "moria/graph objects/weapon/wpn_shotgun_rabbidmario_02.mgraphobject"
 		myEquipmentDescriptor = Descriptor_RabbidsMario_Shotgun_2

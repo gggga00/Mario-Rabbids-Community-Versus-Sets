@@ -95,33 +95,5 @@ ListWeaponSettings PVP_DM_RabbidsMario_Shotgun
 		myBulletParameters < uid=8297F7EA59D6439900000031E5E804A1 > = BulletParameters_ShotgunCone
 		myVersionInfoConditions < uid=8297F7EA59D643990000003203B4882B > = VER_Retail
 	}
-	WeaponSettings RabbidsMario_Shotgun_Preset4 	// Counter Blower
-	{
-		myGraphObject "moria/graph objects/weapon/wpn_shotgun_rabbidmario_12.mgraphobject"
-		myEquipmentDescriptor = Descriptor_RabbidsMario_Shotgun_12
-		myWeaponCategory Shotgun
-		myUnlockState Owned
-		myUnlockDescriptor = NULLREFERENCE
-		myPrice
-		{
-			myCurrencyAmount 0
-		}
-		myAttackLevels = AttackLevels_Shotgun
-		myAttackParameters < uid=8297F7EA59D643990000002FC4963752 > : AttackParameters_Shotgun
-		{
-			myDamageBase 40
-			myDamageMin -5
-			myDamageMax 5
-			myHitChance 70.0
-			mySuperChance 30.0
-			mySuperDamageMod 0.24
-		}
-		myBonus1 = SideEffect_Vampire
-		myBonus2 = NULLREFERENCE
-		myBonus3 = NULLREFERENCE
-		myAdvantage < uid=8297F7EA59D64399000000309EB62F84 > = NULLREFERENCE
-		myBulletParameters < uid=8297F7EA59D6439900000031E5E804A1 > = BulletParameters_ShotgunCone
-		myVersionInfoConditions < uid=8297F7EA59D643990000003203B4882B > = VER_Retail
-	}
 }
 

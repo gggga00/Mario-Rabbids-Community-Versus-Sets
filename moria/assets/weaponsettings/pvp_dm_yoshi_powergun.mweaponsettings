@@ -95,7 +95,7 @@ ListWeaponSettings PVP_DM_Yoshi_Powerguns
 		myBulletParameters < uid=8297F7EA59D64D3B0000006149640DDD > = BulletParameters_Powergun
 		myVersionInfoConditions < uid=8297F7EA59D64D3B00000062F0568114 > = VER_Retail
 	}
-    WeaponSettings Yoshi_Powergun_Preset4		// Apocalyptic
+    WeaponSettings Yoshi_Powergun_Preset4
 	{
 		myGraphObject "moria/graph objects/weapon/wpn_powergun_yoshi_12.mgraphobject"
 		myEquipmentDescriptor = Descriptor_Yoshi_Powergun_11

@@ -95,7 +95,7 @@ ListWeaponSettings PVP_DM_Mario_Lightguns
 		myBulletParameters < uid=8297F7EA59D62B2A000000DEA9890D4F > = BulletParameters_Lightgun
 		myVersionInfoConditions < uid=8297F7EA59D62B2A000000DF4953F633 > = VER_Retail
 	}
-	WeaponSettings Mario_Lightgun_Preset4		// Sticky
+	WeaponSettings Mario_Lightgun_Sticky
 	{
 		myGraphObject "moria/graph objects/weapon/wpn_lightgun_mario_12.mgraphobject"
 		myEquipmentDescriptor = Descriptor_Mario_Lightgun_11

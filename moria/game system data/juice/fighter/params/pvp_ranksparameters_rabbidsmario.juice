@@ -15,16 +15,10 @@ RanksParameters PVP_DM_Rank_Preset3 < uid=8297F7EA59D4AC25000001303E2DB120 >
 	myHealthPoints 170
 }
 
-RanksParameters PVP_DM_Rank_Preset_CounterBlower < uid=8297F7EA59D4AC25000001303E2DB120 >
-{
-	myHealthPoints 160
-}
-
 Ranks PVP_DM_Ranks_RabbidsMario
 {
 	RanksParameters PVP_DM_Rank_Preset1 < uid=8297F7EA59D4AB3B0000012974FC1AE8 > = PVP_DM_Rank_Preset1
 	RanksParameters PVP_DM_Rank_Preset2 < uid=8297F7EA59D4AC25000001315EBCD412 > = PVP_DM_Rank_Preset2
 	RanksParameters PVP_DM_Rank_Preset3 < uid=8297F7EA59D4AC25000001322CE43205 > = PVP_DM_Rank_Preset3
-	RanksParameters PVP_DM_Rank_Preset4 < uid=8297F7EA59D4AC25000001322CE43205 > = PVP_DM_Rank_Preset_CounterBlower
 }
 

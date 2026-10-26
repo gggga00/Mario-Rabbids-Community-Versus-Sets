@@ -260,19 +260,6 @@ InfoCardSlotComparisonList ComparisonList_PVP_DM_RabbidsMario_Preset3
 	ComparisonValue SECONDARYTECHNIQUE Worst
 }
 
-InfoCardSlotComparisonList ComparisonList_PVP_DM_RabbidsMario_Preset_CounterBlower
-{
-	ComparisonValue HP Worst
-	ComparisonValue DASH Worst
-	ComparisonValue TEAMJUMP Same
-	ComparisonValue PRIMARYWEAPON Worst
-	ComparisonValue SECONDARYWEAPON Same
-	ComparisonValue PRIMARYWEAPONSIDEEFFECT Worst
-	ComparisonValue SECONDARYWEAPONSIDEEFFECT Better
-	ComparisonValue PRIMARYTECHNIQUE Worst
-	ComparisonValue SECONDARYTECHNIQUE Worst
-}
-
 InfoCardSlotComparisonList ComparisonList_PVP_DM_Peach_Preset1
 {
 	ComparisonValue HP Same
@@ -363,6 +350,7 @@ InfoCardSlotComparisonList ComparisonList_PVP_DM_RabbidsYoshi_Preset3
 	ComparisonValue PRIMARYTECHNIQUE Same
 	ComparisonValue SECONDARYTECHNIQUE Better
 }
+
 
 InfoCardSlotComparisonList ComparisonList_PVP_DM_RabbidsYoshi_NanomachinesSon
 {

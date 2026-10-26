@@ -179,7 +179,7 @@ ListWeaponSettings PVP_DM_Peach_Shotguns
 		myBulletParameters < uid=8297F7EA59D646AF0000004125A3F15E > = BulletParameters_ShotgunCone
 		myVersionInfoConditions < uid=8297F7EA59D646AF00000042A0C9FE13 > = VER_Retail
 	}
-	WeaponSettings Peach_Shotgun_Preset7		// Protector 1.0AS
+	WeaponSettings Peach_Shotgun_Preset7
 	{
 		myGraphObject "moria/graph objects/weapon/wpn_shotgun_peach_10.mgraphobject"
 		myEquipmentDescriptor = Descriptor_Peach_Shotgun_10
@@ -207,7 +207,7 @@ ListWeaponSettings PVP_DM_Peach_Shotguns
 		myBulletParameters < uid=8297F7EA59D4BA750000023A7588B99F > = BulletParameters_ShotgunCone
 		myVersionInfoConditions < uid=8297F7EA59D4BA750000023B3C21EBC3 > = VER_Retail
 	}
-	WeaponSettings Peach_Shotgun_Preset8		// Fly Swatter
+	WeaponSettings Peach_Shotgun_Preset8
 	{
 		myGraphObject "moria/graph objects/weapon/wpn_shotgun_rabbidmario_02.mgraphobject"
 		myEquipmentDescriptor = Descriptor_RabbidsMario_Shotgun_2

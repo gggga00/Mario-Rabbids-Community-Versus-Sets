@@ -253,13 +253,6 @@ PresetDescriptor Descriptor_PVP_DM_RabbidsMario_Preset6
 	myInfoCardSlotComparison = ComparisonList_PVP_DM_RabbidsMario_Preset3
 }
 
-PresetDescriptor Descriptor_PVP_DM_RabbidsMario_Preset_CounterBlower
-{
-	myName "contextComment = \"Descriptor_PVP_DM_RabbidsMario_Preset_CounterBlower\", description = \"Descriptor_PVP_DM_RabbidsMario_Preset_CounterBlower\", enabled = true, guid = #D7AA725759E8BCDD0000000005000007, lineVersion = 0, maxLength = 47, text = \"Descriptor_PVP_DM_RabbidsMario_Preset_CounterBlower\""
-	myInfoCardLayout = Infocard_Layout_Preset
-	myInfoCardSlotComparison = ComparisonList_PVP_DM_RabbidsMario_Preset_CounterBlower
-}
-
 PresetDescriptor Descriptor_PVP_DM_Peach_Preset1
 {
 	myName "contextComment = \"Descriptor_PVP_DM_Peach_Preset1_Name\", description = \"Descriptor_PVP_DM_Peach_Preset1_Name\", enabled = true, guid = #D6AA725759E8BD1100000041EA825C74, lineVersion = 0, maxLength = 47, text = \"Descriptor_PVP_DM_Peach_Preset1_Name\""

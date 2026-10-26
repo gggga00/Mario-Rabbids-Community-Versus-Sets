@@ -2723,75 +2723,6 @@ FighterPreset PVP_DM_RabbidsMario_Preset6 < uid=D7AA725759D62DFA0000000005000006
 	}
 }
 
-FighterPreset PVP_DM_RabbidsMario_Preset_CounterBlower < uid=D7AA725759D62DFA0000000005000007 >
-{
-	myDescriptor = Descriptor_PVP_DM_RabbidsMario_Preset_CounterBlower
-	myFighterSetup < uid=D6AA725759D62DFA000000275B9586AF >
-	{
-		myRank Rank3
-		myMoveAbility Core4
-		myPrimaryWeaponAvailable TRUE
-		myPrimaryWeaponId Weapon4
-		mySecondaryWeaponAvailable TRUE
-		mySecondaryWeaponId Weapon4
-		myPrimaryTechniqueAvailable TRUE
-		mySecondaryTechniqueAvailable TRUE
-	}
-	mySkillTreeSetup
-	{
-		SkillState PVP_DM_SKL_RabbidsMario_DashDamage
-		{
-			mySkillBonusID < uid=8297F7EA59D65A720000006C87C36263 > = PVP_DM_SKL_RabbidsMario_DashDamage
-			mySkillLevel 0
-		}
-		SkillState PVP_DM_SKL_RabbidsMario_DashNumber
-		{
-			mySkillBonusID < uid=8297F7EA59D65A720000006D227D5317 > = PVP_DM_SKL_RabbidsMario_DashNumber
-			mySkillLevel 2
-		}
-		SkillState PVP_DM_SKL_RabbidsMario_TeamJumpCleanse
-		{
-			mySkillBonusID < uid=8297F7EA59D65A720000006FE372A82C > = PVP_DM_SKL_RabbidsMario_TeamJumpCleanse
-			mySkillLevel 0
-		}
-		SkillState PVP_DM_SKL_RabbidsMario_ShieldWeaponDamageReduction
-		{
-			mySkillBonusID < uid=8297F7EA59D65A72000000707F3E1E5B > = PVP_DM_SKL_RabbidsMario_ShieldWeaponDamageReduction
-			mySkillLevel 0
-		}
-		SkillState PVP_DM_SKL_RabbidsMario_ShieldMoveDamageReduction
-		{
-			mySkillBonusID < uid=8297F7EA59D65A7200000071B7131F40 > = PVP_DM_SKL_RabbidsMario_ShieldMoveDamageReduction
-			mySkillLevel 3
-		}
-		SkillState PVP_DM_SKL_RabbidsMario_ShieldCooldown
-		{
-			mySkillBonusID < uid=8297F7EA59D65A7200000072C3A52E1B > = PVP_DM_SKL_RabbidsMario_ShieldCooldown
-			mySkillLevel 0
-		}
-		SkillState PVP_DM_SKL_RabbidsMario_MagnetDanceCooldown
-		{
-			mySkillBonusID < uid=8297F7EA59D65A7200000073B5E0CD8B > = PVP_DM_SKL_RabbidsMario_MagnetDanceCooldown
-			mySkillLevel 2
-		}
-		SkillState PVP_DM_SKL_RabbidsMario_MagnetDanceRadius
-		{
-			mySkillBonusID < uid=8297F7EA59D65A72000000743AA3D1AA > = PVP_DM_SKL_RabbidsMario_MagnetDanceRadius
-			mySkillLevel 2
-		}
-		SkillState SecondaryWeaponUnlock
-		{
-			mySkillBonusID < uid=D6AA725759D74E3F0000002C24F2127B > = PVP_DM_SKL_RabbidsMario_Melee
-			mySkillLevel 0
-		}
-		SkillState SecondaryTechniqueUnlock
-		{
-			mySkillBonusID < uid=D6AA725759D74E3F0000002DB63153CC > = PVP_DM_SKL_RabbidsMario_MagnetDance
-			mySkillLevel 0
-		}
-	}
-}
-
 FighterPreset PVP_DM_Peach_Preset1 < uid=D6AA725759D62DFA000000288DF96CE8 >
 {
 	myDescriptor = Descriptor_PVP_DM_Peach_Preset1
@@ -4588,7 +4519,6 @@ GameModeFighterPresets GameMode_Deathmatch
 			FighterPreset Preset4 < uid=D6AA725759D62DFA000000438FB70D15 > = PVP_DM_RabbidsMario_Preset4
 			FighterPreset Preset5 < uid=D6AA725759D62DFA00000044A9CDD482 > = PVP_DM_RabbidsMario_Preset5
 			FighterPreset Preset6 < uid=D6AA725759D62DFA00000045A1C11E9D > = PVP_DM_RabbidsMario_Preset6
-			FighterPreset Preset7 < uid=D6AA725759D62DFA00000045A1C11E9D > = PVP_DM_RabbidsMario_Preset_CounterBlower
 		}
 		FighterPresetsList PVP_DM_Peach
 		{

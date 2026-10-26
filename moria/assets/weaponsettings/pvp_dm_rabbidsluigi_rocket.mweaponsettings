@@ -98,7 +98,7 @@ ListWeaponSettings PVP_DM_RabbidsLuigi_Rockets
 		myBulletParameters < uid=8297F7EA59D634E9000000F66E14C615 > = BulletParameters_Rocket
 		myVersionInfoConditions < uid=8297F7EA59D634E9000000F72C10E899 > = VER_Retail
 	}
-	WeaponSettings RabbidsLuigi_Rocket_Preset4		// Invader
+	WeaponSettings RabbidsLuigi_Rocket_Preset4
 	{
 		myGraphObject "moria/graph objects/weapon/WPN_Rocket_RabbidLuigi_12.mgraphobject"
 		myEquipmentDescriptor = Descriptor_RabbidsLuigi_Rocket_12
@@ -126,7 +126,7 @@ ListWeaponSettings PVP_DM_RabbidsLuigi_Rockets
 		myBulletParameters < uid=8297F7EA59D634E9000000F66E14C615 > = BulletParameters_Rocket
 		myVersionInfoConditions < uid=8297F7EA59D634E9000000F72C10E899 > = VER_Retail
 	}
-	WeaponSettings RabbidsLuigi_Rocket_Preset5		// Brawler
+	WeaponSettings RabbidsLuigi_Rocket_Preset5
 	{
 		myGraphObject "moria/graph objects/weapon/wpn_melee_rabbidmario_11.mgraphobject"
 		myEquipmentDescriptor = Descriptor_RabbidsMario_Melee_10

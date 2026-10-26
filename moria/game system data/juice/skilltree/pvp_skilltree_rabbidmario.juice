@@ -441,13 +441,6 @@ Skill PVP_DM_SKL_RabbidsMario_ShieldMoveDamageReduction < uid=8297F7EA59D4B2B300
 				myPrimary_TechniqueDamageReductionMovement 1
 			}
 		}
-		Step Preset4
-		{
-			myBonus
-			{
-				myPrimary_TechniqueDamageReductionMovement 0.2
-			}
-		}
 	}
 	myDescriptor : Descriptor_SKL_RabbidMario_ShieldMovementDamageReduction
 	{

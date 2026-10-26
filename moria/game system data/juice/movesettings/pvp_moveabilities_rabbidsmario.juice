@@ -23,12 +23,6 @@ MoveAbilitiesParameters PVP_DM_MoveAbilitiesParameters < uid=8297F7EA59D4ADFF000
 	myNoCoverDamage TRUE
 }
 
-MoveAbilitiesParameters PVP_DM_MoveAbilitiesParameters_CounterBlower < uid=8297F7EA59D4ADFF0000013B5BB76478 > : PVP_DM_MoveAbilitiesParameters
-{
-	myAomChase 0
-	myCanExplosiveDash FALSE
-}
-
 ListMoveAbilitiesSettings PVP_DM_MoveAbilities_RabbidsMario
 {
 	MoveAbilitiesSettings MoveAbilities_Preset1 < uid=8297F7EA59D4AC99000001331E8C9E38 >
@@ -51,13 +45,6 @@ ListMoveAbilitiesSettings PVP_DM_MoveAbilities_RabbidsMario
 		mySpecializationType Dash
 		myDescriptor = Descriptor_ExplosiveDash
 		myMoveAbilitiesParameters < uid=8297F7EA59DC87D400000018409721CD > = PVP_DM_MoveAbilitiesParameters
-	}
-	MoveAbilitiesSettings MoveAbilities_Preset4 < uid=8297F7EA59DC87D4000000178F8F24AE >
-	{
-		myMoveAbilityCategory SimpleDash
-		mySpecializationType Dash
-		myDescriptor = Descriptor_TeamJump
-		myMoveAbilitiesParameters < uid=8297F7EA59DC87D400000018409721CD > = PVP_DM_MoveAbilitiesParameters_CounterBlower
 	}
 }
 

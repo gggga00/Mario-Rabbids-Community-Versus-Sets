@@ -98,34 +98,5 @@ ListWeaponSettings PVP_DM_RabbidsMario_MeleeWeapons
 		myBulletParameters < uid=8297F7EA59D6442C00000039A6031544 > = BulletParameters_MeleeWeapon
 		myVersionInfoConditions < uid=8297F7EA59D6442C0000003A6C3BE391 > = VER_Retail
 	}
-	WeaponSettings RabbidsMario_MeleeWeapon_Preset4 	// Counter Blower
-	{
-		myGraphObject "moria/graph objects/weapon/wpn_melee_rabbidmario_05.mgraphobject"
-		myEquipmentDescriptor = Descriptor_RabbidsMario_Melee_5
-		myWeaponCategory MeleeWeapon
-		myUnlockState Owned
-		myUnlockDescriptor = NULLREFERENCE
-		myPrice
-		{
-			myCurrencyAmount 0
-		}
-		myAttackLevels = AttackLevels_MeleeWeapon
-		myAttackParameters < uid=8297F7EA59D6442C0000003745DC8088 > : AttackParameters_MeleeWeapon
-		{
-			myDamageBase 60
-			myDamageMin -5
-			myDamageMax 5
-			myCoverDamage 0.0
-			myHitChance 70.0
-			mySuperChance 30.0
-			mySuperDamageMod 0.2
-		}
-		myBonus1 = SideEffect_Vampire
-		myBonus2 = NULLREFERENCE
-		myBonus3 = NULLREFERENCE
-		myAdvantage < uid=8297F7EA59D6442C000000385A8CFFF5 > = NULLREFERENCE
-		myBulletParameters < uid=8297F7EA59D6442C00000039A6031544 > = BulletParameters_MeleeWeapon
-		myVersionInfoConditions < uid=8297F7EA59D6442C0000003A6C3BE391 > = VER_Retail
-	}
 }
 
