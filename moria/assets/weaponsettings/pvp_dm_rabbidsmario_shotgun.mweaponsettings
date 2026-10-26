@@ -97,8 +97,8 @@ ListWeaponSettings PVP_DM_RabbidsMario_Shotgun
 	}
 	WeaponSettings RabbidsMario_Shotgun_Preset4 	// Counter Blower
 	{
-		myGraphObject "moria/graph objects/weapon/wpn_shotgun_rabbidmario_11.mgraphobject"
-		myEquipmentDescriptor = Descriptor_RabbidsMario_Shotgun_11
+		myGraphObject "moria/graph objects/weapon/wpn_shotgun_rabbidmario_12.mgraphobject"
+		myEquipmentDescriptor = Descriptor_RabbidsMario_Shotgun_12
 		myWeaponCategory Shotgun
 		myUnlockState Owned
 		myUnlockDescriptor = NULLREFERENCE
