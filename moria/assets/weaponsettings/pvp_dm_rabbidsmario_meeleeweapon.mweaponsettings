@@ -100,8 +100,8 @@ ListWeaponSettings PVP_DM_RabbidsMario_MeleeWeapons
 	}
 	WeaponSettings RabbidsMario_MeleeWeapon_Preset4 	// Counter Blower
 	{
-		myGraphObject "moria/graph objects/weapon/wpn_melee_rabbidmario_04.mgraphobject"
-		myEquipmentDescriptor = Descriptor_RabbidsMario_Melee_4
+		myGraphObject "moria/graph objects/weapon/wpn_melee_rabbidmario_05.mgraphobject"
+		myEquipmentDescriptor = Descriptor_RabbidsMario_Melee_5
 		myWeaponCategory MeleeWeapon
 		myUnlockState Owned
 		myUnlockDescriptor = NULLREFERENCE
